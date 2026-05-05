@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">Hi Vinarm This Side </h1>
+<h3 align="center"> Build | Sleep </h3>
+<h3 align="center"> MERN Stack Developer| Problem Solver</h3>
 
-<!--
-**vinarmjawa/vinarmjawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me  
+- 🎓 Final-year **B.Tech student  - 💻 Strong focus on **Building Scaleable Solutions**  
+- 🌱 Currently Exploring **Backend Development  Function-as-a-Service (FaaS)**    
+- 🚀 Building **full stack real-world applications in my free time**
+- 💬 Chit Chat with me  **New Technologies**
+- 📫 Reach me at **vinarmjawa1297@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me  
+- 💻 GitHub: https://github.com/vinarmjawa
+- 🧠 LeetCode: https://leetcode.com/vinarm_05
+
+---
+
+### 🌟 Project
+
+#### VMS- Vessel mangagement Software
+
+
+#### 🚗 RideKaro – Urban Commuting Platform
+**Tech:** React.js, Node.js, Express.js, MongoDB  
+- Platform for **cab booking and carpool ride sharing**
+- Built scalable backend with **RESTful architecture**
+- Implemented **ride publishing & seat booking system**
+- Designed responsive frontend with **form validation**
+
+---
+
+### 🛠️ Tech Stack  
+
+#### 💻 Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Bootstrap
+- Responsive UI Design
+
+#### ⚙️ Backend (Learning & Building)
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+
+#### 🧠 Programming Languages
+- Java
+- Python
+- JavaScript
+
+#### 🛠️ Tools
+- Git
+- GitHub
+- VS Code
+
+#### 📚 CS Fundamentals
+- Data Structures & Algorithms
+- OOP
+- DBMS
+- Operating Systems
+- Computer Networks
+
+---
+
+### 🏆 Achievements
+- Solved **200+ DSA problems** on LeetCode, GeeksforGeeks & CodeChef
+- Built **Real-world usefull applications**
+- Strong understanding of **problem solving & system design fundamentals**
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinarmjawa&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinarmjawa&layout=compact&theme=radical" />
+</p>
+
+---
+
+### ⚡ Current Focus
+- Learning **Advanced Backend concepts**
+- Practicing **DSA daily**
+- Contributing to **Real-world useful projects**
