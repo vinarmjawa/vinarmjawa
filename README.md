@@ -1,5 +1,4 @@
-<h1 align="center">Hi Vinarm This Side </h1>
-<h3 align="center"> Build | Sleep </h3>
+<h1 align="center">Hi Vinarm </h1> This Side 
 <h3 align="center"> MERN Stack Developer| Problem Solver</h3>
 
 ---
