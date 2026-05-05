@@ -21,9 +21,6 @@
 
 ### 🌟 Project
 
-#### VMS- Vessel mangagement Software
-
-
 #### 🚗 RideKaro – Urban Commuting Platform
 **Tech:** React.js, Node.js, Express.js, MongoDB  
 - Platform for **cab booking and carpool ride sharing**
@@ -72,17 +69,7 @@
 - Built **Real-world usefull applications**
 - Strong understanding of **problem solving & system design fundamentals**
 
----
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinarmjawa&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinarmjawa&layout=compact&theme=radical" />
-</p>
 
 ---
 
