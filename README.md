@@ -45,7 +45,7 @@
 - JWT Authentication
 
 #### 🧠 Programming Languages
-- Java
+- c++
 - Python
 - JavaScript
 
