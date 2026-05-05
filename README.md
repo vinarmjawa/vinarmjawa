@@ -1,4 +1,4 @@
-<p><h1 align="center">Hi Vinarm </h1> <h3>This Side</h3> </p>
+<h1 align="center">Hi Vinarm <span style="font-size:16px;">,This Side</span></h1>
 <h3 align="center"> MERN Stack Developer| Problem Solver</h3>
 
 ---
