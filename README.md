@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Final-year **B.Tech** student  - 💻 Strong focus on **Building Scaleable Solutions**  
+- 🎓 **B.Tech** student  - 💻 Strong focus on **Building Scaleable Solutions**  
 - 🌱 Currently Exploring **Backend Development  Function-as-a-Service (FaaS)**    
 - 🚀 Building **full stack real-world applications in my free time**
 - 💬 Chit Chat with me  **New Technologies**
