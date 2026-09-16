@@ -93,18 +93,6 @@ I'm a **Software Engineer** focused on building full-stack applications, scalabl
 
 ---
 
-## Engineering Focus
-
-```text
-Full-Stack Development     ████████████████████
-Backend Engineering        ██████████████████░░
-REST API Design            ██████████████████░░
-Database Design            ████████████████░░░░
-AI / RAG Systems           ███████████████░░░░░
-DSA & Problem Solving      ███████████████░░░░░
-
-
-```
 ## 📊 GitHub Stats
 
 <p align="center">
