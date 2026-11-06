@@ -93,22 +93,3 @@ I'm a **Software Engineer** focused on building full-stack applications, scalabl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vinarmjawa&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <b>Building software that solves real-world problems.</b>
-</p>
